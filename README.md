@@ -1,3 +1,7 @@
 # Sales_Insights
 Problem Statement : 
-AtliQ Hardware has head office in Delhi and branches across India. The sales director notices a decline in sales and the regional managers are not helpful enough to figure out the reason. Hence, he decides to invest in a data analysis project, and he would like to build a Power BI dashboard to get sales insights. So create an automated Dashboard with a real-time refresh rate, providing insights that help in decision-making.
+The company's sales manager is facing challenges in tracking sales in a rapidly growing market and gaining insights into the business. To address this, the manager relies on regional managers across North, South, and Central India for information. However, these interactions are verbal, leading to potential sugarcoating of facts and an unclear understanding of sales performance.
+
+The provided Excel files from regional managers don't offer the desired level of clarity due to their complexity. The manager seeks a clear view of the weakest areas that require attention to enhance sales and reverse the decline. This necessitates a user-friendly and easily digestible dashboard for accessing real-time data insights. The manager believes that data-driven decisions are key to improving sales.
+
+In this project, we aim to develop a sales-focused dashboard using PowerBI to provide the company with an effective data visualization tool.
