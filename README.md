@@ -33,17 +33,11 @@ Data comprises Five distinct tables:
 **Key Insights :**
 • In 2018, AtliQ Company experienced a remarkable sales of 414M, followed by a decline in sales in 2019 with a substantial drop of sales 
   of 336M and a further significant decrease in 2020 with a sales of 142M
-
 • In 2019 profit margin was 10.49M and in 2020 prodit margin droped to 2.06M
-
 • Electricalsara Stores emerged as the top customer, contributing sales of 413M out of total sales of 985M.
-
 • AtliQ has -2.01% loss by Electricalslance Stores.
-
 • Delhi NCR emerged as the market leader, contributing 52.76% to sales and 48.48% to profit.
-
 • Kanpur & Bengaluru are two market's is in loss.
-
 • North and South zones are not getting much sales by E-Commerce customers.
 
 
